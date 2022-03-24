@@ -1,0 +1,9 @@
+main: com.template.Template
+name: TemplatePlugin
+version: 0.1
+
+commands:
+  template:
+    description: Template command.
+    usage: /template
+    aliases: [temp]
